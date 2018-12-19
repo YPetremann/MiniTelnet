@@ -10,7 +10,7 @@ async function loop(m) {
 	//demoGraphics(M,false); await delay(pause)
 	//demoGraphics(M,true); await delay(pause)
 	//demoCursor(M); await delay(pause)
-	await demoPipboy2(m); await delay(pause)
+	await demoKeyboard(m); await delay(pause)
 	//demoBip(M); await delay(pause)
 	//demoText(M); await delay(pause)
 	//demoColor(M); await delay(pause)
